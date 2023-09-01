@@ -1,6 +1,9 @@
 ## Insta_Clone
 
+
 Welcome to the Instagram Clone App repository! This is a mobile application built using Flutter that replicates the core features of the popular social media platform, Instagram. This clone app allows users to share photos, follow other users, like and comment on posts, and explore a feed of images from people they follow.
+
+### **You can download apk from the Android release in the release section**
 
 ## Features
  - User Authentication: Users can sign up or log in using their email or social media accounts to access the app's features.
